@@ -1,0 +1,6 @@
+C:\Users\ASUS\Desktop\3kurs\c_scharp\Components\bin\Debug\Gif.Components.dll
+C:\Users\ASUS\Desktop\3kurs\c_scharp\Components\bin\Debug\Gif.Components.pdb
+C:\Users\ASUS\Desktop\3kurs\c_scharp\Components\obj\Debug\Components.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\3kurs\c_scharp\Components\obj\Debug\Components.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\3kurs\c_scharp\Components\obj\Debug\Gif.Components.dll
+C:\Users\ASUS\Desktop\3kurs\c_scharp\Components\obj\Debug\Gif.Components.pdb

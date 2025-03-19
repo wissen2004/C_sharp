@@ -1,0 +1,12 @@
+C:\Users\ASUS\Desktop\3kurs\c_scharp\SortComparison\bin\Debug\SortComparison.exe
+C:\Users\ASUS\Desktop\3kurs\c_scharp\SortComparison\bin\Debug\SortComparison.pdb
+C:\Users\ASUS\Desktop\3kurs\c_scharp\SortComparison\bin\Debug\Gif.Components.dll
+C:\Users\ASUS\Desktop\3kurs\c_scharp\SortComparison\bin\Debug\Gif.Components.pdb
+C:\Users\ASUS\Desktop\3kurs\c_scharp\SortComparison\obj\x86\Debug\SortComparison.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\3kurs\c_scharp\SortComparison\obj\x86\Debug\SortComparison.frmMain.resources
+C:\Users\ASUS\Desktop\3kurs\c_scharp\SortComparison\obj\x86\Debug\SortComparison.Properties.Resources.resources
+C:\Users\ASUS\Desktop\3kurs\c_scharp\SortComparison\obj\x86\Debug\SortComparison.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\3kurs\c_scharp\SortComparison\obj\x86\Debug\SortComparison.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\3kurs\c_scharp\SortComparison\obj\x86\Debug\SortComparison.csproj.CopyComplete
+C:\Users\ASUS\Desktop\3kurs\c_scharp\SortComparison\obj\x86\Debug\SortComparison.exe
+C:\Users\ASUS\Desktop\3kurs\c_scharp\SortComparison\obj\x86\Debug\SortComparison.pdb
