@@ -47,6 +47,7 @@ namespace SortComparison
             this.txtOutputFolder = new System.Windows.Forms.TextBox();
             this.label4 = new System.Windows.Forms.Label();
             this.folderBrowserDialog1 = new System.Windows.Forms.FolderBrowserDialog();
+            this.button1 = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pnlSort1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pnlSort2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.tbSamples)).BeginInit();
@@ -216,7 +217,7 @@ namespace SortComparison
             this.chkAnimation.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.chkAnimation.Location = new System.Drawing.Point(746, 607);
             this.chkAnimation.Name = "chkAnimation";
-            this.chkAnimation.Size = new System.Drawing.Size(173, 28);
+            this.chkAnimation.Size = new System.Drawing.Size(202, 28);
             this.chkAnimation.TabIndex = 14;
             this.chkAnimation.Text = "Создать анимацию";
             this.chkAnimation.UseVisualStyleBackColor = true;
@@ -247,15 +248,26 @@ namespace SortComparison
             this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label4.Location = new System.Drawing.Point(165, 646);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(142, 25);
+            this.label4.Size = new System.Drawing.Size(80, 25);
             this.label4.TabIndex = 15;
             this.label4.Text = "Папка:";
+            // 
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(75, 733);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(75, 23);
+            this.button1.TabIndex = 18;
+            this.button1.Text = "button1";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // frmMain
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1146, 797);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.btnSelectFolder);
             this.Controls.Add(this.txtOutputFolder);
             this.Controls.Add(this.label4);
@@ -303,6 +315,7 @@ namespace SortComparison
         private System.Windows.Forms.TextBox txtOutputFolder;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.FolderBrowserDialog folderBrowserDialog1;
+        private System.Windows.Forms.Button button1;
     }
 }
 

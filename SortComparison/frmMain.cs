@@ -255,6 +255,20 @@ namespace SortComparison
                 this.txtOutputFolder.Text = folderBrowserDialog1.SelectedPath;
             }
         }
-      
+
+
+        private Form _previousForm;
+
+        public frmMain(Form previousForm)
+        {
+            InitializeComponent();
+            _previousForm = previousForm; // Сохраняем ссылку на предыдущую форму
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            this.Hide(); // Скрываем текущее окно
+            _previousForm.Show(); // Показываем предыдущую форму
+        }
     }
 }
