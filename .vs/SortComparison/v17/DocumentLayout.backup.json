@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\work\\C_sharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{843AD06D-8B9D-456D-A468-D8183820B10A}|SortComparison\\SortComparison.csproj|c:\\work\\c_sharp\\sortcomparison\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843AD06D-8B9D-456D-A468-D8183820B10A}|SortComparison\\SortComparison.csproj|solutionrelative:sortcomparison\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843AD06D-8B9D-456D-A468-D8183820B10A}|SortComparison\\SortComparison.csproj|c:\\work\\c_sharp\\sortcomparison\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843AD06D-8B9D-456D-A468-D8183820B10A}|SortComparison\\SortComparison.csproj|solutionrelative:sortcomparison\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843AD06D-8B9D-456D-A468-D8183820B10A}|SortComparison\\SortComparison.csproj|c:\\work\\c_sharp\\sortcomparison\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{843AD06D-8B9D-456D-A468-D8183820B10A}|SortComparison\\SortComparison.csproj|solutionrelative:sortcomparison\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843AD06D-8B9D-456D-A468-D8183820B10A}|SortComparison\\SortComparison.csproj|c:\\work\\c_sharp\\sortcomparison\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843AD06D-8B9D-456D-A468-D8183820B10A}|SortComparison\\SortComparison.csproj|solutionrelative:sortcomparison\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843AD06D-8B9D-456D-A468-D8183820B10A}|SortComparison\\SortComparison.csproj|c:\\work\\c_sharp\\sortcomparison\\sortalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843AD06D-8B9D-456D-A468-D8183820B10A}|SortComparison\\SortComparison.csproj|solutionrelative:sortcomparison\\sortalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843AD06D-8B9D-456D-A468-D8183820B10A}|SortComparison\\SortComparison.csproj|c:\\work\\c_sharp\\sortcomparison\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{843AD06D-8B9D-456D-A468-D8183820B10A}|SortComparison\\SortComparison.csproj|solutionrelative:sortcomparison\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843AD06D-8B9D-456D-A468-D8183820B10A}|SortComparison\\SortComparison.csproj|c:\\work\\c_sharp\\sortcomparison\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843AD06D-8B9D-456D-A468-D8183820B10A}|SortComparison\\SortComparison.csproj|solutionrelative:sortcomparison\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "C:\\work\\C_sharp\\SortComparison\\frmMain.cs",
+              "RelativeDocumentMoniker": "SortComparison\\frmMain.cs",
+              "ToolTip": "C:\\work\\C_sharp\\SortComparison\\frmMain.cs",
+              "RelativeToolTip": "SortComparison\\frmMain.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAAAKMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T06:38:34.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\work\\C_sharp\\SortComparison\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "SortComparison\\Form1.Designer.cs",
+              "ToolTip": "C:\\work\\C_sharp\\SortComparison\\Form1.Designer.cs",
+              "RelativeToolTip": "SortComparison\\Form1.Designer.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAYwDwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T06:35:33.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\work\\C_sharp\\SortComparison\\Form1.cs",
+              "RelativeDocumentMoniker": "SortComparison\\Form1.cs",
+              "ToolTip": "C:\\work\\C_sharp\\SortComparison\\Form1.cs",
+              "RelativeToolTip": "SortComparison\\Form1.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAIwIsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T05:44:18.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\work\\C_sharp\\SortComparison\\Form1.cs",
+              "RelativeDocumentMoniker": "SortComparison\\Form1.cs",
+              "ToolTip": "C:\\work\\C_sharp\\SortComparison\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "SortComparison\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T05:44:14.35Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmMain.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\work\\C_sharp\\SortComparison\\frmMain.cs",
+              "RelativeDocumentMoniker": "SortComparison\\frmMain.cs",
+              "ToolTip": "C:\\work\\C_sharp\\SortComparison\\frmMain.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "SortComparison\\frmMain.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T05:44:12.137Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SortAlgorithm.cs",
+              "DocumentMoniker": "C:\\work\\C_sharp\\SortComparison\\SortAlgorithm.cs",
+              "RelativeDocumentMoniker": "SortComparison\\SortAlgorithm.cs",
+              "ToolTip": "C:\\work\\C_sharp\\SortComparison\\SortAlgorithm.cs",
+              "RelativeToolTip": "SortComparison\\SortAlgorithm.cs",
+              "ViewState": "AgIAACgDAAAAAAAAAAAiwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T05:44:01.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\work\\C_sharp\\SortComparison\\Program.cs",
+              "RelativeDocumentMoniker": "SortComparison\\Program.cs",
+              "ToolTip": "C:\\work\\C_sharp\\SortComparison\\Program.cs",
+              "RelativeToolTip": "SortComparison\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T05:44:00.71Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

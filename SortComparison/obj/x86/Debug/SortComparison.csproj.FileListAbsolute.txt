@@ -11,3 +11,16 @@ C:\Users\ASUS\Desktop\3kurs\c_scharp\SortComparison\obj\x86\Debug\SortComparison
 C:\Users\ASUS\Desktop\3kurs\c_scharp\SortComparison\obj\x86\Debug\SortComparison.exe
 C:\Users\ASUS\Desktop\3kurs\c_scharp\SortComparison\obj\x86\Debug\SortComparison.pdb
 C:\Users\ASUS\Desktop\3kurs\c_scharp\SortComparison\obj\x86\Debug\SortComparison.Form1.resources
+C:\work\C_sharp\SortComparison\bin\Debug\SortComparison.exe
+C:\work\C_sharp\SortComparison\bin\Debug\SortComparison.pdb
+C:\work\C_sharp\SortComparison\bin\Debug\Gif.Components.dll
+C:\work\C_sharp\SortComparison\bin\Debug\Gif.Components.pdb
+C:\work\C_sharp\SortComparison\obj\x86\Debug\SortComparison.csproj.AssemblyReference.cache
+C:\work\C_sharp\SortComparison\obj\x86\Debug\SortComparison.Form1.resources
+C:\work\C_sharp\SortComparison\obj\x86\Debug\SortComparison.frmMain.resources
+C:\work\C_sharp\SortComparison\obj\x86\Debug\SortComparison.Properties.Resources.resources
+C:\work\C_sharp\SortComparison\obj\x86\Debug\SortComparison.csproj.GenerateResource.cache
+C:\work\C_sharp\SortComparison\obj\x86\Debug\SortComparison.csproj.CoreCompileInputs.cache
+C:\work\C_sharp\SortComparison\obj\x86\Debug\SortComp.4586FF46.Up2Date
+C:\work\C_sharp\SortComparison\obj\x86\Debug\SortComparison.exe
+C:\work\C_sharp\SortComparison\obj\x86\Debug\SortComparison.pdb
